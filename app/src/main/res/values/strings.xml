@@ -2,4 +2,5 @@
     <string name="app_name">two activity</string>
     <string name="button_main">SEND</string>
     <string name="text_header">message received</string>
+    <string name="editText_main">EDIT TEXT HERE</string>
 </resources>
