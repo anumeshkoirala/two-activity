@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">two activity</string>
+    <string name="button_main">SEND</string>
 </resources>
